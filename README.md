@@ -3,3 +3,4 @@ Knee Osteoarthritis (KOA) is the most common types of Osteoarthritis (OA) and it
 In case you use this work please cite our paper as the following: 
 Helwan, Abdulkader, Azar, Danielle, and Abdellatef, Hamdan. ‘An Update on the Knee Osteoarthritis Severity Grading Using Wide Residual Learning’. 1 Jan. 2022 : 1 – 13.
 
+https://pubmed.ncbi.nlm.nih.gov/35848003/
