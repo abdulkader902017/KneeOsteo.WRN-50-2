@@ -4,3 +4,4 @@ In case you use this work please cite our paper as the following:
 Helwan, Abdulkader, Azar, Danielle, and Abdellatef, Hamdan. ‘An Update on the Knee Osteoarthritis Severity Grading Using Wide Residual Learning’. 1 Jan. 2022 : 1 – 13.
 
 https://pubmed.ncbi.nlm.nih.gov/35848003/
+![knee](https://user-images.githubusercontent.com/33559190/236414531-9071f4c1-9916-45c4-96cc-fa872622bf0f.JPG)
